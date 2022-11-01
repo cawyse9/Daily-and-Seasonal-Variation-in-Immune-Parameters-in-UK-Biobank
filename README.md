@@ -34,11 +34,11 @@ All analyses were performed using R version 3.5, and Stata 14 statistical softwa
 ## Results
 Seasonal patterns were evident in lymphocyte and neutrophil counts, and C-reactive protein CRP, but not monocytes, and these were independent of lifestyle, demographic, and environmental factors. All the immune parameters assessed demonstrated significant daytime variation that was independent of confounding factors. At a population level, human immune parameters vary across season and across time of day, independent of multiple confounding factors. Both season and time of day are fundamental dimensions of immune function that should be considered in all studies of immuno-prophylaxis and disease transmission.
 
-[Figure 1] () Annual variation in total monocytes, neutrophils, lymphocytes, and CRP. Data are mean (bars) and 95%
+[Figure 1] (/images/figure1.png) Annual variation in total monocytes, neutrophils, lymphocytes, and CRP. Data are mean (bars) and 95%
 confidence intervals (boxes), with fitted cosinor curves (dotted line). Daylength is indicated by the box color
 gradients
 
-[Figure 2] () Daytime variation in monocytes, neutrophils, lymphocytes, and CRP. Data are mean (bars) and 95%
+[Figure 2] (/images/figure2.png) Daytime variation in monocytes, neutrophils, lymphocytes, and CRP. Data are mean (bars) and 95%
 confidence intervals (boxes), with fitted segmented regression lines (dotted black lines). The color gradient represents mean zenith angle of the sun at each time point is given to indicate daylight
 
 ## Conclusions
