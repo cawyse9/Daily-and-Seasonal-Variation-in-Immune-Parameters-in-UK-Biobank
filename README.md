@@ -30,6 +30,8 @@ If seasonal and daily variation were indicated, we next investigated if these pa
 Potential confounders included as covariables were age; sex; ethnicity; Townsend area deprivation score; physical activity and sedentary behaviour; alcohol intake and smoking status; outdoor temperature; blood analyser; vitamin D; sleep duration; chronotype and UK Biobank assessment centre. Multicollinearity between the covariables was assessed using variance inflation factors (VIF) and tolerance factors, with values of VIF > 10 taken to denote problematic collinearity.
 
 All analyses were performed using R version 3.5, and Stata 14 statistical software (StataCorp LP) and values of p < 0.01 were considered to represent statistical significance.
+[Link to Stata code](https://github.com/cawyse9/Daily-and-Seasonal-Variation-in-Immune-Parameters-in-UK-Biobank/blob/main/Analysis/covid%20july2020v2.do)
+[Link to Stata code2])https://github.com/cawyse9/Daily-and-Seasonal-Variation-in-Immune-Parameters-in-UK-Biobank/blob/main/Analysis/covid%20sept2020_total%20counts.do)
 
 ## Results
 Seasonal patterns were evident in lymphocyte and neutrophil counts, and C-reactive protein CRP, but not monocytes, and these were independent of lifestyle, demographic, and environmental factors. All the immune parameters assessed demonstrated significant daytime variation that was independent of confounding factors. At a population level, human immune parameters vary across season and across time of day, independent of multiple confounding factors. Both season and time of day are fundamental dimensions of immune function that should be considered in all studies of immuno-prophylaxis and disease transmission.
